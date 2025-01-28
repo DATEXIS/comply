@@ -1,0 +1,331 @@
+interview - symptoms
+physical examination
+physical examination - cognitive abilities
+interview - dizziness
+use device - x-ray - chest
+give medication - nsaids
+interview - cough
+interview - headache
+give medication - painkillers
+interview - nasal congestion
+interview - fatigue
+give advice - rest
+interview - pain
+run test - blood test
+use device - iv (fluids)
+physical examination - body temperature
+interview - nausea
+run test - bloodtest
+run test - ultrasound
+use device - ct
+use device - mri
+run test - biopsy
+run test - endoscopy
+give adivce - lifestyle change
+give advice - diet
+liver transplant
+give medication - corticosteroids
+give medication - pentoxifylline
+run test - lumbar puncture
+give medication - antibiotics
+no treatment
+physical examination - face
+give medication - antihistamines
+physical examination - hands
+physical examination - feet
+physical examination - nose
+physical examination - breathing
+give medication - adrenaline
+use device - x-ray
+oxygenotherapy
+pulmonary rehabilitation
+interview - urine
+run test - blood lipase and amylase
+give medication - antiemetics
+give medication - antipyretic
+interview - diarrhoea
+physical examination - weight
+cystoscopy
+transurethral resection of a bladder tumour (turbt)
+procedure - radiotherapy
+chemotherapy
+physical examination - heart
+neurological exam
+use device - pet
+surgery - remove abnormal tissue
+physical examination - legs
+physiotherapy
+ice wrap
+use device - x-ray - leg
+leg cast
+run test - spirometry
+run test - peak expiratory flow test
+asthma management
+use device - eeg
+give medication - reliever inhaler
+run test - saliva analysis
+physical examination - lungs
+run test - bronchoscopy
+give medication - vaccine
+give advice - exercise
+give advice - hydration
+interview - binge eating
+interview - mood
+interview - purging
+interview - bulimia
+psychological treatment - bulimia
+give advice - change footwear
+surgery
+give medication - cough medicine
+interview - nose
+give medication - decongestant
+interview - throat
+run test - immunity
+interview - history
+give medication - antivirals
+interview - aphasia
+therapy - speech and language
+interview - clouding of consciousness
+give advice - manage stress
+interview - depression
+give medication - antidepressants
+therapy - cbt
+give medication - cbt
+give advice - counselling
+interview - insomnia
+interview - chronic fatigue
+give advice - review medical plan
+give advice - pacing
+procedure - blood transfusion
+run test - bone marrow biopsy
+run test - lymph node biopsy
+run test - genetic
+surgery - stem cell transplant
+surgery - bone marrow transplant
+run test - phlegm analysis
+give medication - steroids
+bronchodilators
+give medication - mucolytic tablet or capsules
+physical examination - chest
+use device - spirometry
+use device - peak flow test
+physical examination - oxygen
+use device - inhaler
+use device - nebulised medication
+partake in program - pulmonary rehabilitation program
+run test - stool analysis
+give advice - avoid alcohol
+give advice - stop smoking
+interview - appetite
+physical examination - stomach
+use device - ct scanner
+cirrhosis management
+use device - echocardiogram
+use device - ecg
+run test - cardiac catheterisation
+surgery - catheters
+surgery - open heart surgery
+surgery - heart transplant
+observation
+run test - photophobia
+run test - eye secretion swab
+run test - electromyogram
+splint
+interview - constipation
+give advice - diet modification
+give medicine - antibiotics
+give medicine - mucus thiner
+run test - sperm count
+give medicine - mucus reduction medicine
+give medicine - mucus thinner
+interview - sweating
+management of cystic fibrosis
+run test - urine analysis
+give medication - blood thiners
+interview - oliguria
+interview - xerostomia
+interview - dehydration
+give medication - ear drops
+give medication - ibuprofen / paracetamol
+run test - pcr 
+give medication - monoclonal antibodies
+physical examination - arms
+physical examination - arm
+use device - echo
+give medication - antidiuretic
+interview - cognitive abilities
+interview - sleep
+give medication - sleeping aid
+cognitive behavioural therapy
+crutches
+surgery - gallblader
+physical examination - vagina
+run test - herpes culture
+give medication - zovirax / valtrex
+interview - history of sexual activity
+physical examination - genital area
+cream
+freezing
+surgery - removal of testicle or an ovary
+give medication - chemotherapy
+physical examination - joints
+give medication - specific
+interview - description
+run test - skin test
+surgery - head
+run test - liver function test
+physical examination - eyes
+interview - reflux
+give medication - antiacids
+give medication - alginates
+give medication - ppis
+give medication - h2 receptor antagonists
+interview - vomiting
+interview - regurgitation
+run test - barium swallow test
+run test - gastroscopy
+surgery - lnf
+give medication - statins
+use device - sphygmomanometer
+run test - blood pressure
+give advice - lose weight
+give medication - blood thinner
+physical examination - blood pressure
+physical examination - head
+run test - fundoscopy
+give medication - hormones
+run test - biopsy - lung
+lung transplant
+life support
+emergency care
+give medication - anaesthetic
+physical examination - skin
+give medication - iron supplements
+give medication - antispasmodics
+give medication - laxatives
+give advice - avoid caffeine
+massage
+heat
+surgery - ureteroscopy
+surgery - percutaneous nephrolithotomy (pcnl)
+surgery - removal of kidney stone
+procedure - extracorporeal shock wave lithotripsy (eswl)
+physical examination - torso
+give medication - skin care
+chloroquine phosphate
+artemisinin-based combination therapies
+atovaquone-proguanil
+quinine sulfate with doxycycline
+primaquine phosphate
+interview - photophobia
+give advice - dim lights
+run test - nasopharingeal swab
+physical examination - ears
+interview - hearing
+triptans
+give medication - anti nausea
+interview - speech
+physical examination - mouth
+nasal packing
+give medication - nasal decongestant
+physical exmaination - neck
+give medication - ace inhibitors
+give medication - calcium channel blockers
+give medication - thiazide diuretics
+give medication - alpha-blockers
+give medication - beta-blockers
+use assessment tool - epworth sleepiness scale
+give medication - hormon replacement (levothyroxine)
+use assessment tool - bmi
+run test - measure waist circumference
+run test - hiv test
+give medication - hiv antiretroviral therapy
+physical examination - neck
+physical examination -  mouth
+physical examination - throat
+run test - mouth swab
+give medication - antifungal
+immobilization
+surgery - bone fracture surgery
+procedure - closed reduction
+use device - dxa
+use assessment tool - frax
+use assessment tool - q-fracture
+give medication - bone strenghteners (bisphosphonates)
+give medication - strontium ranelate
+give medication - selective oestrogen receptor modulators (serms)
+give medication - calcium and vitamin d supplements
+thoracentesis
+give medication - antiarhytmics
+run test - abdominal fluid analysis
+use device - laparoscopy
+surgery - ovary removal
+surgery - womb removal
+surgery - omentum removal
+procedure - chemotherapy
+intervew - swallowing
+occupational therapy
+diet 
+levodopa
+dopamine agonists
+monoamine oxidase-b inhibitors
+non-oral threapies
+deep brain stimulation
+run test: ink
+give medication - permethrin lotion 5%
+interview - itching
+run test - sigmoidoscopy
+run test - proctoscopy
+surgery - tumor removal
+interview - chest listening
+hospitalization
+surgery - nephrectomy
+interview - numbness
+give advice - avoid cold
+disease-modifying anti-rheumatic drugs (dmard)
+interview-delusions
+give medication - antipsychotic
+interview-hallucinations
+surgery - back
+give advice - take warm bath
+give advice - calm down and wait
+use device - manometer
+give advice - vagal maneuvers
+give medication - oxygen therapy
+give medication - inotropes
+tonsillectomy
+run test - abdomen fluid analysis
+surgery - stomach
+give medication - ibs medication
+give medication - anti blood clot
+give medication - vitamin supplement
+give medication - antihelmintics
+blood transfusion
+run test - fna
+interview - smell
+root canal
+dental filling
+denture
+run test - murphys sign
+surgery - cholecystectomy
+interview - visual
+run test - chlamydia antigen
+run test - tb test
+use device - dialysis
+give medication - diuretics
+give medication - calcium gluconate
+run test - enterography
+bladder training
+catheterization
+interview - allergens
+surgery - bone tumor removal
+physical examination - bone palpation
+interview - vaginal bleeding
+interview - vaginal discharge
+run test - colposcopy
+give medication - vitamin b12 supplements
+use device - ultrasound
+surgery - appendectomy
+interview  - pain
+physical examination - pelvis
+surgery - hysterectomy
