@@ -1,13 +1,12 @@
 # Comply: Learning Sentences with Complex Weights inspired by Fruit Fly Olfaction
-![comply](comply.png "Comply: Learning Sentences with Complex Learning Sentences with Complex Weights inspired by Fruit Fly Olfaction"){width= height=y}
+<img src="comply.svg" alt="Comply: Learning Sentences with Complex Weights inspired by Fruit Fly Olfaction" width="600">
 
-- Requirements: `ray==2.38.0, torch`, we ran our code on 4 P100s, 8 A100s.
-# Train a model
-- Install and follow the FlyVec preprocessing of your data into 2 1D numpy arrays of input ids and sentence offsets.
-See [this issue](https://github.com/bhoov/flyvec/issues/4) 
+- Requirements: `ray==2.38.0` and `torch`. We ran our code on 4 P100s, 8 A100s.
 
+# Training a model
+- Install and follow the FlyVec preprocessing of your data into two 1D numpy arrays of input ids and sentence offsets. See [this issue](https://github.com/bhoov/flyvec/issues/4).
 
-Run the main_dp.py file as in:
+Run the `main_dp.py` file as in:
 
 ```shell
 python main_dp.py \
@@ -26,8 +25,12 @@ python main_dp.py \
     --no_target \
 ```
 
-# MTEB 
-- Install MTEB, mind the SprintDuplicateQuestions note at the end of `run_mteb.py`, also mind the environmental variables to control for being rate limited by too many requests to huggingface datasets:
+# Evaluations
+
+## MTEB 
+- Install MTEB and mind the SprintDuplicateQuestions note at the end of `run_mteb.py`
+- Also, mind the environmental variables to control for being rate limited by too many requests to huggingface datasets.
+- Then run the `run_mteb.py` file as in:
 ```shell
    export HF_DATASETS_CACHE="[path to huggingface datasets cache]"
    export HF_DATASETS_OFFLINE=1
@@ -38,8 +41,9 @@ python main_dp.py \
     --added_hash \
     --only_benchmark \
 ```
-# WiC
-- Get the WiC data, set the hyperparameter search values for ray in the arguments and run
+
+## WiC
+- Get the WiC data, set the hyperparameter search values for ray in the arguments and run the `WiC.py` file as in:
 ```shell
 python WiC.py \
      --num_samples 500 \
@@ -54,8 +58,8 @@ python WiC.py \
      --no_target
 ```
 
-#  RL training and the DDXGym environment
-- Install the *comply* modified environment from `rl/cff-Medical-Gym` following the [README](rl/cff-Medical-Gym/README.md)
+##  RL training and the DDXGym environment
+- Install the *Comply* modified environment from `rl/cff-Medical-Gym` following the [README](rl/cff-Medical-Gym/README.md)
 - Mind the note in `rl/cff-Med-RL/main.py` and replace the ray installation file at, say, `/usr/local/lib/python3.10/dist-packages/ray/rllib/utils/serialization.py` by the `serialization_new_ray.py`.
 This comes from a TextSpace conflict with the newer gymnasium dependencies.
 
