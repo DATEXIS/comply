@@ -1,4 +1,7 @@
-# Comply: Learning Sentences with Complex Weights inspired by Fruit Fly Olfaction
+# Comply
+This repository contains code for the paper **Comply: Learning Sentences with Complex Weights inspired by Fruit Fly Olfaction, NICE 2025**.
+[[Preprint](https://arxiv.org/abs/2502.01706)]
+
 <img src="comply.svg" alt="Comply: Learning Sentences with Complex Weights inspired by Fruit Fly Olfaction" width="600">
 
 - Requirements: `ray==2.38.0` and `torch`. We ran our code on 4 P100s, 8 A100s.
